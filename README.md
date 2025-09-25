@@ -1,13 +1,10 @@
-# 🩺 Symptom Recommendation System  
-ระบบแนะนำอาการผู้ป่วยด้วย "Association Rule Mining"
-
 https://symptom001.streamlit.app/
 
 <img width="748" height="786" alt="image" src="https://github.com/user-attachments/assets/78e065e8-03ab-4eb1-846f-61287afc498b" />
 
 ----------
 
-## 🔰 Introduction
+## 🔰 Introduction [ระบบแนะนำอาการผู้ป่วยด้วย "Association Rule Mining"]
 This project is part of a **Data Science Candidate Assignment**.  
 The objective is to build a **Symptom Recommendation System** that suggests possible related symptoms given an initial patient symptom (similar to how Netflix recommends movies).  
 
