@@ -1,5 +1,8 @@
 # 🩺 Symptom Recommendation System  
 ระบบแนะนำอาการผู้ป่วยด้วย "Association Rule Mining"
+
+https://symptom001.streamlit.app/
+
 <img width="748" height="786" alt="image" src="https://github.com/user-attachments/assets/78e065e8-03ab-4eb1-846f-61287afc498b" />
 
 ---
